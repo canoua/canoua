@@ -12,6 +12,8 @@
 ### Сборщики проектов
 
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" height="80" align="center"/>&nbsp;
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="gulp" alt="gulp" height="100" align="center"/>&nbsp;
+
 
 ### CMS
 
