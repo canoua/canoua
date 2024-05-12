@@ -1,6 +1,6 @@
 ## Всем привет! Меня зовут Андрей.
     
-### Стэк технологий(верстка)
+### Стэк технологий
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
