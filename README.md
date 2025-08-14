@@ -10,10 +10,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="40" height="40" align="center" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" align="center"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" align="center"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" height="40" align="center"/>&nbsp;
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" height="40" align="center"/>&nbsp;-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" height="40" align="center"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="gulp" alt="gulp" width="60" align="center"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpess" width="40" height="40" align="center"/>&nbsp;
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="gulp" alt="gulp" width="60" align="center"/>&nbsp;-->
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpess" width="40" height="40" align="center"/>&nbsp;-->
 
 ### Статистика
     
