@@ -15,9 +15,8 @@
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="gulp" alt="gulp" width="60" align="center"/>&nbsp;-->
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpess" width="40" height="40" align="center"/>&nbsp;-->
 
-### Использую редко
-<img src="https://github.com/devicons/devicon/blob/master/icons/pug/pug-original.svg" title="pug" alt="pug" width="40" height="40" align="center"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="40" height="40" align="center" />
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/pug/pug-original.svg" title="pug" alt="pug" width="40" height="40" align="center"/> -->
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="40" height="40" align="center" /> -->
 
 ### Статистика
     
