@@ -18,8 +18,8 @@
 
 ### Статистика
     
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="150">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="150">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="250">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="200">
 
 #### Гайд по оформлению markdown
 https://www.markdownguide.org/basic-syntax/
