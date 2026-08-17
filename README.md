@@ -55,8 +55,8 @@
 
 
 <div>
-     <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="145">  -->
-     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="145">  -->
+     <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="145">-->
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="145"> 
 </div>
 
     
