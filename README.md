@@ -1,64 +1,61 @@
-<!--https://github.com/Ileriayo/markdown-badges-->
-## Всем привет! Меня зовут Андрей.
-    
-<!--### Основной стэк технологий-->
-### Фронтенд
-![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br>
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br>
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# Всем привет! Меня зовут Андрей 👋
 
-### Бэкенд
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+Я Frontend-разработчик, увлеченный созданием веб-приложений. Постоянно изучаю новые технологии и стремлюсь писать чистый, поддерживаемый код.
 
-### Базы данных
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### ОС
-![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+## 🛠️ Технологический стек
 
-## Интересуюсь
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+### 💻 Фронтенд
+![Next JS](https://img.shields.io/badge/Next.js-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## В учебных проектах использовал
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Pug](https://img.shields.io/badge/Pug-%23FFF.svg?style=for-the-badge&logo=pug&logoColor=A86454)
-<br>
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" align="center"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40" align="center"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="docker" alt="docker" height="40" align="center"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" alt="Git" width="40" height="40" align="center"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40" align="center"/>&nbsp;  -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" align="center"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" height="40" align="center"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" height="40" align="center"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" align="center"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" align="center"/>&nbsp; -->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" height="40" align="center"/>&nbsp;-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="gulp" alt="gulp" width="60" align="center"/>&nbsp;-->
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpess" width="40" height="40" align="center"/>&nbsp;-->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/pug/pug-original.svg" title="pug" alt="pug" width="40" height="40" align="center"/> -->
+### ⚙️ Бэкенд и Базы данных
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
+### 🎨 Дизайн и Стилизация
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 
+### 🧰 Инструменты
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
-<div>
-     <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="145">-->
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="145"> 
+### 🐧 Операционные системы
+![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=flat-square&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
+
+---
+
+## 🚀 Чем интересуюсь и что изучаю
+- **CMS:** ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white)
+- **Mobile & 3D:** ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+
+---
+
+## 📚 Дополнительно изучал
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
+![Pug](https://img.shields.io/badge/Pug-%23FFF.svg?style=flat-square&logo=pug&logoColor=A86454)
+
+---
+
+## 📊 Статистика GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaryaka&theme=darcula" height="150" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akaryaka&theme=darcula" height="150" alt="Repos per Language">
 </div>
 
-    
-<!--https://www.markdownguide.org/basic-syntax/-->
-  
+---
+
+<!--## 📬 Связаться со мной
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💬 **Telegram:** [@your_username](https://t.me/your_username)
+- 💼 **LinkedIn:** [linkedin.com/in/your_profile](https://linkedin.com/in/your_profile)
+- 🌐 **Портфолио:** [your-portfolio.com](https://your-portfolio.com)-->
