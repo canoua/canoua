@@ -33,8 +33,7 @@
 ---
 
 ## 🚀 Чем интересуюсь и что изучаю
-- **CMS:** ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white)
-- **Mobile & 3D:** ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+- **Mobile:** ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 
 ---
 
